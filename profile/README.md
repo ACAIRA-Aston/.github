@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="acaira.png" alt="figure" width="80%">
+    <img src="https://github.com/ACAIRA-Aston/.github/blob/main/acaira.png?raw=true" alt="figure" width="80%">
 </p>
 
 **ACAIRA brings together complementary expertise and engagement with end-users to enable the full potential of trustworthy, ethical and sustainable Artificial Intelligence (AI) solutions for the future. Our core objectives are:**
